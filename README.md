@@ -2,6 +2,8 @@
 
 This repositary uses my [lastfm-user-data-api](https://github.com/hankhank10/lastfm-user-data-api) to pull the last played track and some music stats from last.fm and print them to an e-ink display, specifically the [Pimoroni inky what](https://shop.pimoroni.com/products/inky-what?variant=21214020436051) which has a github [here](https://github.com/pimoroni/inky)
 
+![Example of what it looks like](https://user-images.githubusercontent.com/25515609/84536452-c6bd3b80-ace5-11ea-82b6-4c9f22ed3a6a.jpg)
+
 ## Installation
 
 Purchase and install the Pimoroni inky wHAT on your Raspberry Pi.  Ensure that you have enabled I2C in ```raspi-config```
