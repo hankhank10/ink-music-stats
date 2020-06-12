@@ -29,7 +29,8 @@ pm2 startup systemd
 ```
 
 This will generate something which looks like
-```sudo env PATH=$PATH:/usr/bin /usr/local/lib/node_modules/pm2/bin/pm2 startup systemd -u pi --hp /home/pi```
+```sudo env PATH=$PATH:/usr/bin /usr/local/lib/node_modules/pm2/bin/pm2 startup systemd -u pi --hp /home/pi
+```
 
 Put this (or, rather, whatever your system generates) into the command line followed by
 
