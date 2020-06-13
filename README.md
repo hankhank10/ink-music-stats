@@ -1,3 +1,7 @@
+# This repo is now deprecated - see [music-screen-api](https://github.com/hankhank10/music-screen-api) for this functionality and more
+
+# Below included for history only
+
 # Ink music stats
 
 This repositary uses my [lastfm-user-data-api](https://github.com/hankhank10/lastfm-user-data-api) to pull the last played track and some music stats from last.fm and print them to an e-ink display, specifically the [Pimoroni inky what](https://shop.pimoroni.com/products/inky-what?variant=21214020436051) which has a github [here](https://github.com/pimoroni/inky)
