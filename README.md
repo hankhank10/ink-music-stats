@@ -1,6 +1,6 @@
 # This repo is now deprecated - see [music-screen-api](https://github.com/hankhank10/music-screen-api) for this functionality and more
 
-# Below included for history only
+Details below are included in case you are still using this library, but I recommend moving to music-screen-api
 
 # Ink music stats
 
